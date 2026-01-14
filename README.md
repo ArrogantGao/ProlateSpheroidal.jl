@@ -1,6 +1,6 @@
 # ProlateSpheroidal.jl
 
-Native Julia implementation of the 0th order prolate spheroidal wave function (PSWF) with helpers for evaluation, derivatives, integrals, and eigenvalue computation. The implementation is a translation of the C++ reference (by Shidong @sj90101 and Libin @lu1and10) and ships pre-generated test fixtures so tests do not depend on the C library.
+Native Julia implementation of the 0th order prolate spheroidal wave function (PSWF) with helpers for evaluation, derivatives, integrals, and eigenvalue computation. The implementation is a translation of the C++ reference (by [Shidong](https://github.com/sj90101) and [Libin](https://github.com/lu1and10)) and ships pre-generated test fixtures so tests do not depend on the C library.
 
 ## Plots
 
